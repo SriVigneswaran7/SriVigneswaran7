@@ -3,7 +3,7 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/Gohan.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/Gohan.jpg" width="800" />
 </div>
 
 <br/>
