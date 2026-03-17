@@ -7,11 +7,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" align="left" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" align="left" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github" align="right" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github" align="right" height="150" />
   
-  <img src="https://skillicons.dev/icons?i=react,tailwind,kotlin,py,js,cpp&perline=2" height="160" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,kotlin,py,js,cpp&perline=2" height="140" />
 </p>
 
 <br clear="both" />
