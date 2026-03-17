@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Sri+Vigneswaran;Computer+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Sri+Vigneswaran;Computer+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/gohan.png" width="100%" />
+
 </div>
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3 align="center">🛠️ My Tech Stack</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Tech Stack</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -17,20 +23,20 @@
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       </div>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="100%" alt="Coding GIF" />
+    <td width="50%" valign="top">
+      <h3 align="center">📊 GitHub Stats</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github" width="100%" alt="Sri's GitHub Stats" />
+      </div>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=0" alt="Sri's GitHub Stats" />
-</div>
+---
 
-<br/>
-
+### 👨‍💻 About Me
 I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Greenwich**, focused on leveling up my skills by building highly polished, production-ready applications. I enjoy bridging the gap between complex logic and clean, modern UI/UX.
 
 ### 🎯 Current Focus Areas:
@@ -38,4 +44,9 @@ I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Green
 * **Mobile App Architecture:** Kotlin, Android Studio, MVVM Pattern
 * **Systems Engineering:** C/C++, Python
 
-Feel free to explore my repositories to see my personal projects!
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/sri-vigneswaran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:srivigneswaran07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
