@@ -7,24 +7,22 @@
 <br/>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" valign="middle" style="border: none; padding: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" height="175" />
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 0 10px;">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br/>
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><br/>
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><br/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br/>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><br/>
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github" height="175" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" height="170" align="middle" />
+  
+  <img src="https://raw.githubusercontent.com/trinib/trinib/master/assets/transparent.png" width="20" height="170" align="middle" />
+
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><br/>
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><br/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><br/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </div>
+
+  <img src="https://raw.githubusercontent.com/trinib/trinib/master/assets/transparent.png" width="20" height="170" align="middle" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github" height="170" align="middle" />
 </div>
 
 ---
