@@ -38,4 +38,4 @@ I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Green
 * **Mobile App Architecture:** Kotlin, Android Studio, MVVM Pattern
 * **Systems Engineering:** C/C++, Python
 
-Feel free to explore my repositories to see my coursework and personal projects!
+Feel free to explore my repositories to see my personal projects!
