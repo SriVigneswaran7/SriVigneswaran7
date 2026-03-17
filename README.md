@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Sri+Vigneswaran;Computer+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Sri+Vigneswaran;Computer+Engineering+Student;Full-Stack+Developer" alt="Typing SVG" /> />
 
   <br/>
   <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/Gohan.jpg" width="800" />
