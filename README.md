@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/gohan.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/SriVigneswaran7/SriVigneswaran7/main/Gohan.jpg" width="100%" />
 
 </div>
 
