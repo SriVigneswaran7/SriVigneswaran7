@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" align="left" height="135" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&rank_icon=github&v=2" align="right" height="135" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" align="right" height="135" />
   
   <img src="https://skillicons.dev/icons?i=react,tailwind,kotlin,py,js,cpp&perline=2" height="125" />
 </p>
@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Greenwich**, focused on leveling up my skills by building highly polished, production-ready applications. I enjoy bridging the gap between complex logic and clean, modern UI/UX.
+I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Greenwich**, focused on levelling up my skills by building highly polished, production-ready applications. I enjoy bridging the gap between complex logic and clean, modern UI/UX.
 
 ### Current Focus Areas:
 * **Full-Stack Web Development:** React, Tailwind CSS, Vercel Deployments
