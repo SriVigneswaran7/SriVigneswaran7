@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true" align="left" height="135" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriVigneswaran7&theme=tokyonight&hide_border=true&v=1" align="left" height="135" />
   
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SriVigneswaran7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" align="right" height="135" />
   
