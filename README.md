@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Greenwich**, focused on levelling up my skills by building highly polished, production-ready applications. I enjoy bridging the gap between complex logic and clean, modern UI/UX.
+I'm a **Year 2 B.Eng Computer Engineering** student at the **University of Greenwich**, focused on levelling up my skills by building highly polished, production-ready applications. I enjoy bridging the gap between complex logic and clean, modern UI/UX
 
 ### Current Focus Areas:
 * **Full-Stack Web Development:** React, Tailwind CSS, Vercel Deployments
